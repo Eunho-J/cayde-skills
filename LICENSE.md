@@ -1,41 +1,21 @@
-# cayde-skills 이용 라이선스 1.0
+MIT License
 
 Copyright (c) 2026 cayde
 
-원본 저장소: https://github.com/Eunho-J/cayde-skills
-이용 협의: cayde@choam.studio
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 1. 적용 범위
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-본 라이선스는 원본 저장소에 포함된 스킬과 문서 등 저작권자가 권리를 보유한 자료 및 해당 자료를 복제, 수정, 번역, 재구성하여 만든 파생 저작물과 파생 스킬에 적용됩니다.
-
-## 2. 개인의 비상업적 이용
-
-개인이 자신의 비상업적 목적으로 자료를 사용, 복제, 수정하거나 비상업적으로 배포하는 것을 본 라이선스의 조건 아래 무료로 허락합니다. 이용 횟수, 이용 기간 및 개인 기기 수에 제한을 두지 않습니다.
-
-상업적 목적 또는 기업의 업무를 위한 이용은 개인이 수행하더라도 이 무료 이용 허락에 포함되지 않습니다.
-
-## 3. 상업적 이용 및 기업에서의 이용
-
-상업적 이용 또는 기업에서의 이용에는 사전 협의와 원본 저작권자의 명시적인 서면 허락이 필요합니다. 기업의 업무, 운영, 연구, 개발 등 기업을 위한 이용은 직접적인 수익 발생 여부와 관계없이 이 조항에 해당합니다.
-
-이용을 시작하기 전에 cayde@choam.studio로 이메일을 보내 이용 목적과 범위를 협의해야 합니다. 이메일 문의 자체나 답변이 없다는 사실은 이용 허락을 의미하지 않습니다.
-
-## 4. 원 출처 명시
-
-본 자료를 바탕으로 만든 파생 저작물 또는 파생 스킬에는 원 출처인 `cayde-skills` 저장소의 이름과 URL을 확인할 수 있게 명시해야 합니다.
-
-- 저장소 이름: cayde-skills
-- 저장소 URL: https://github.com/Eunho-J/cayde-skills
-
-자료의 사본과 파생물에는 원본의 저작권 표시와 본 라이선스 전문을 포함해야 합니다.
-
-## 5. 파생물의 동일 라이선스 적용
-
-파생 저작물과 파생 스킬에도 본 라이선스를 동일하게 적용해야 합니다. 개인의 비상업적 무료 이용, 상업적 이용 및 기업 이용의 사전 협의, 원 출처 명시, 파생물의 동일 라이선스 적용 조건을 제거하거나 완화할 수 없습니다.
-
-파생물이라는 이유로 상업적 이용 또는 기업 이용의 사전 협의 의무가 면제되지는 않습니다. 원본 자료에 대한 이용 협의는 cayde@choam.studio로 연락해야 합니다.
-
-## 6. 그 밖의 권리
-
-본 라이선스는 법률이 별도로 허용하는 이용을 제한하지 않습니다. 본 라이선스에서 명시적으로 허락하지 않은 저작권자의 권리는 저작권자에게 남습니다.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
