@@ -1,0 +1,4 @@
+interface:
+  display_name: "레드팀"
+  short_description: "설계의 엣지 케이스를 먼저 정하고 테스트와 순차 독립 검토로 검증합니다"
+  default_prompt: "$red-team으로 설계만 보고 엣지 케이스를 작성한 뒤, 항목별 테스트 보완과 하나씩 전달하는 독립 검토를 수행해줘."
