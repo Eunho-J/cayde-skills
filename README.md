@@ -73,17 +73,3 @@ $red-team으로 이 설계에서 구현 단위로 테스트할 수 있는 엣지
 3. **레드팀으로 검증합니다.** 확정된 설계에서 사례를 도출하고, 표준 테스트와 순차 독립 검토로 구현을 확인합니다.
 
 레드팀에서 사용하는 [사례 목록 양식](skills/red-team/assets/edge-cases.template.md)과 [항목별 검토 지시](skills/red-team/references/single-case-review.md)도 함께 제공합니다.
-
-<details>
-<summary>README 구성에 참고한 저장소</summary>
-
-2026-10-13 07:09 UTC에 아래 GitHub 저장소의 실제 README와 스타 표시를 확인했습니다. 인기 저장소 몇 곳을 살펴본 참고 기록이며, 정확한 전체 순위를 뜻하지 않습니다. 스타 수는 확인 시점의 표시값을 반올림한 규모입니다.
-
-| 참고 저장소 | 스타 규모 | 참고한 구성 |
-|---|---:|---|
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome#readme) | 약 518k | 상단 이미지와 짧은 탐색 링크, 한 줄 설명이 붙은 목록을 참고했습니다. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp#readme) | 약 457k | 첫 문단에서 목적과 독자에게 주는 가치를 설명하는 구성을 참고했습니다. |
-| [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap#readme) | 약 369k | 시작 경로와 자료 목록을 앞에 두는 구성을 참고했습니다. |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners#readme) | 약 121k | 상단 배너와 시작 안내, 항목별 설명 표를 참고했습니다. |
-
-</details>
